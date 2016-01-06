@@ -19,6 +19,9 @@ body {
     height: auto;
 }
 
+#whole{
+  height: 100%;
+}
 
 #nav{
 	font-family: 'Montserrat', sans-serif;
