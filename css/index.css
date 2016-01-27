@@ -69,6 +69,10 @@ a:hover {
     text-decoration: none;
 }
 
+b {
+  color: #D80000;
+}
+
 /*from hover.css*/
 /* Underline From Left */
 #nav a {
